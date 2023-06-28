@@ -6,6 +6,8 @@ This tool collects webdata (only detected phishing links) to build a database. y
 
 I provide a python and a ruby script. both does the same.
 
+Soon ill update this tool to use AI to detect any phishing links. Maybe GPT4FREE 
+
 ## Hotkeys for Spamming :
 
 START_HOTKEY = "ctrl+alt+s"
