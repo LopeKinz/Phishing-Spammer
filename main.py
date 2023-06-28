@@ -33,12 +33,7 @@ def get_ip_details(ip):
     return response.json()
 
 # Function to collect data from phishing websites
-def collect_data(url):
-    # Add your code here to collect data from phishing websites
-    # and store it in the desired format
-    
-    # For example, you can extract relevant information using libraries like BeautifulSoup
-    
+def collect_data(url):  
     # Get the current date and time
     detected_at = time.strftime("%Y-%m-%d %H:%M:%S")
     
